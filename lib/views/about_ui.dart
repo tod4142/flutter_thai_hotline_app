@@ -62,21 +62,21 @@ class AboutUI extends StatelessWidget {
                 height: MediaQuery.of(context).size.height * 0.05,
               ),
               Text(
-                "6819410040",
+                "6819410037",
                 style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
               ),
               SizedBox(
                 height: MediaQuery.of(context).size.height * 0.01,
               ),
               Text(
-                "วุฒิพร คงชาตรี",
+                "รัตนชัย แก้วนพรัตน์",
                 style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
               ),
               SizedBox(
                 height: MediaQuery.of(context).size.height * 0.01,
               ),
               Text(
-                "s6819410040@sau.ac.th",
+                "s6819410037@sau.ac.th",
                 style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
               ),
               SizedBox(
